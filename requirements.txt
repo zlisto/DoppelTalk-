@@ -1,0 +1,10 @@
+streamlit
+openai
+pandas
+python-docx
+PyPDF2
+python-dotenv
+beautifulsoup4
+requests
+
+
